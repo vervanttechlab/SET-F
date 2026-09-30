@@ -1,0 +1,194 @@
+country_id,country_name,capital_city,iso_code,flag_image
+1,Afghanistan,Kabul,AF,af.png
+2,Albania,Tirana,AL,al.png
+3,Algeria,Algiers,DZ,dz.png
+4,Andorra,Andorra la Vella,AD,ad.png
+5,Angola,Luanda,AO,ao.png
+6,Antigua and Barbuda,Saint John's,AG,ag.png
+7,Argentina,Buenos Aires,AR,ar.png
+8,Armenia,Yerevan,AM,am.png
+9,Australia,Canberra,AU,au.png
+10,Austria,Vienna,AT,at.png
+11,Azerbaijan,Baku,AZ,az.png
+12,Bahamas,Nassau,BS,bs.png
+13,Bahrain,Manama,BH,bh.png
+14,Bangladesh,Dhaka,BD,bd.png
+15,Barbados,Bridgetown,BB,bb.png
+16,Belarus,Minsk,BY,by.png
+17,Belgium,Brussels,BE,be.png
+18,Belize,Belmopan,BZ,bz.png
+19,Benin,Porto-Novo,BJ,bj.png
+20,Bhutan,Thimphu,BT,bt.png
+21,Bolivia,Sucre,BO,bo.png
+22,Bosnia and Herzegovina,Sarajevo,BA,ba.png
+23,Botswana,Gaborone,BW,bw.png
+24,Brazil,Brasilia,BR,br.png
+25,Brunei,Bandar Seri Begawan,BN,bn.png
+26,Bulgaria,Sofia,BG,bg.png
+27,Burkina Faso,Ouagadougou,BF,bf.png
+28,Burundi,Gitega,BI,bi.png
+29,Cabo Verde,Praia,CV,cv.png
+30,Cambodia,Phnom Penh,KH,kh.png
+31,Cameroon,Yaounde,CM,cm.png
+32,Canada,Ottawa,CA,ca.png
+33,Central African Republic,Bangui,CF,cf.png
+34,Chad,N'Djamena,TD,td.png
+35,Chile,Santiago,CL,cl.png
+36,China,Beijing,CN,cn.png
+37,Colombia,Bogota,CO,co.png
+38,Comoros,Moroni,KM,km.png
+39,Costa Rica,San Jose,CR,cr.png
+40,Croatia,Zagreb,HR,hr.png
+41,Cuba,Havana,CU,cu.png
+42,Cyprus,Nicosia,CY,cy.png
+43,Czechia,Prague,CZ,cz.png
+44,Democratic Republic of the Congo,Kinshasa,CD,cd.png
+45,Denmark,Copenhagen,DK,dk.png
+46,Djibouti,Djibouti,DJ,dj.png
+47,Dominica,Roseau,DM,dm.png
+48,Dominican Republic,Santo Domingo,DO,do.png
+49,Ecuador,Quito,EC,ec.png
+50,Egypt,Cairo,EG,eg.png
+51,El Salvador,San Salvador,SV,sv.png
+52,Equatorial Guinea,Malabo,GQ,gq.png
+53,Eritrea,Asmara,ER,er.png
+54,Estonia,Tallinn,EE,ee.png
+55,Eswatini,Mbabane,SZ,sz.png
+56,Ethiopia,Addis Ababa,ET,et.png
+57,Fiji,Suva,FJ,fj.png
+58,Finland,Helsinki,FI,fi.png
+59,France,Paris,FR,fr.png
+60,Gabon,Libreville,GA,ga.png
+61,Gambia,Banjul,GM,gm.png
+62,Georgia,Tbilisi,GE,ge.png
+63,Germany,Berlin,DE,de.png
+64,Ghana,Accra,GH,gh.png
+65,Greece,Athens,GR,gr.png
+66,Grenada,Saint George's,GD,gd.png
+67,Guatemala,Guatemala City,GT,gt.png
+68,Guinea,Conakry,GN,gn.png
+69,Guinea-Bissau,Bissau,GW,gw.png
+70,Guyana,Georgetown,GY,gy.png
+71,Haiti,Port-au-Prince,HT,ht.png
+72,Honduras,Tegucigalpa,HN,hn.png
+73,Hungary,Budapest,HU,hu.png
+74,Iceland,Reykjavik,IS,is.png
+75,India,New Delhi,IN,in.png
+76,Indonesia,Jakarta,ID,id.png
+77,Iran,Tehran,IR,ir.png
+78,Iraq,Baghdad,IQ,iq.png
+79,Ireland,Dublin,IE,ie.png
+80,Israel,Jerusalem,IL,il.png
+81,Italy,Rome,IT,it.png
+82,Ivory Coast,Yamoussoukro,CI,ci.png
+83,Jamaica,Kingston,JM,jm.png
+84,Japan,Tokyo,JP,jp.png
+85,Jordan,Amman,JO,jo.png
+86,Kazakhstan,Astana,KZ,kz.png
+87,Kenya,Nairobi,KE,ke.png
+88,Kiribati,Tarawa,KI,ki.png
+89,Kuwait,Kuwait City,KW,kw.png
+90,Kyrgyzstan,Bishkek,KG,kg.png
+91,Laos,Vientiane,LA,la.png
+92,Latvia,Riga,LV,lv.png
+93,Lebanon,Beirut,LB,lb.png
+94,Lesotho,Maseru,LS,ls.png
+95,Liberia,Monrovia,LR,lr.png
+96,Libya,Tripoli,LY,ly.png
+97,Liechtenstein,Vaduz,LI,li.png
+98,Lithuania,Vilnius,LT,lt.png
+99,Luxembourg,Luxembourg,LU,lu.png
+100,Madagascar,Antananarivo,MG,mg.png
+101,Malawi,Lilongwe,MW,mw.png
+102,Malaysia,Kuala Lumpur,MY,my.png
+103,Maldives,Male,MV,mv.png
+104,Mali,Bamako,ML,ml.png
+105,Malta,Valletta,MT,mt.png
+106,Marshall Islands,Majuro,MH,mh.png
+107,Mauritania,Nouakchott,MR,mr.png
+108,Mauritius,Port Louis,MU,mu.png
+109,Mexico,Mexico City,MX,mx.png
+110,Micronesia,Palikir,FM,fm.png
+111,Moldova,Chisinau,MD,md.png
+112,Monaco,Monaco,MC,mc.png
+113,Mongolia,Ulaanbaatar,MN,mn.png
+114,Montenegro,Podgorica,ME,me.png
+115,Morocco,Rabat,MA,ma.png
+116,Mozambique,Maputo,MZ,mz.png
+117,Myanmar,Naypyidaw,MM,mm.png
+118,Namibia,Windhoek,NA,na.png
+119,Nauru,Yaren,NR,nr.png
+120,Nepal,Kathmandu,NP,np.png
+121,Netherlands,Amsterdam,NL,nl.png
+122,New Zealand,Wellington,NZ,nz.png
+123,Nicaragua,Managua,NI,ni.png
+124,Niger,Niamey,NE,ne.png
+125,Nigeria,Abuja,NG,ng.png
+126,North Korea,Pyongyang,KP,kp.png
+127,North Macedonia,Skopje,MK,mk.png
+128,Norway,Oslo,NO,no.png
+129,Oman,Muscat,OM,om.png
+130,Pakistan,Islamabad,PK,pk.png
+131,Palau,Ngerulmud,PW,pw.png
+132,Panama,Panama City,PA,pa.png
+133,Papua New Guinea,Port Moresby,PG,pg.png
+134,Paraguay,Asuncion,PY,py.png
+135,Peru,Lima,PE,pe.png
+136,Philippines,Manila,PH,ph.png
+137,Poland,Warsaw,PL,pl.png
+138,Portugal,Lisbon,PT,pt.png
+139,Qatar,Doha,QA,qa.png
+140,Republic of the Congo,Brazzaville,CG,cg.png
+141,Romania,Bucharest,RO,ro.png
+142,Russia,Moscow,RU,ru.png
+143,Rwanda,Kigali,RW,rw.png
+144,Saint Kitts and Nevis,Basseterre,KN,kn.png
+145,Saint Lucia,Castries,LC,lc.png
+146,Saint Vincent and the Grenadines,Kingstown,VC,vc.png
+147,Samoa,Apia,WS,ws.png
+148,San Marino,San Marino,SM,sm.png
+149,Sao Tome and Principe,Sao Tome,ST,st.png
+150,Saudi Arabia,Riyadh,SA,sa.png
+151,Senegal,Dakar,SN,sn.png
+152,Serbia,Belgrade,RS,rs.png
+153,Seychelles,Victoria,SC,sc.png
+154,Sierra Leone,Freetown,SL,sl.png
+155,Singapore,Singapore,SG,sg.png
+156,Slovakia,Bratislava,SK,sk.png
+157,Slovenia,Ljubljana,SI,si.png
+158,Solomon Islands,Honiara,SB,sb.png
+159,Somalia,Mogadishu,SO,so.png
+160,South Africa,Pretoria,ZA,za.png
+161,South Korea,Seoul,KR,kr.png
+162,South Sudan,Juba,SS,ss.png
+163,Spain,Madrid,ES,es.png
+164,Sri Lanka,Sri Jayawardenepura Kotte,LK,lk.png
+165,Sudan,Khartoum,SD,sd.png
+166,Suriname,Paramaribo,SR,sr.png
+167,Sweden,Stockholm,SE,se.png
+168,Switzerland,Bern,CH,ch.png
+169,Syria,Damascus,SY,sy.png
+170,Tajikistan,Dushanbe,TJ,tj.png
+171,Tanzania,Dodoma,TZ,tz.png
+172,Thailand,Bangkok,TH,th.png
+173,Timor-Leste,Dili,TL,tl.png
+174,Togo,Lome,TG,tg.png
+175,Tonga,Nuku'alofa,TO,to.png
+176,Trinidad and Tobago,Port of Spain,TT,tt.png
+177,Tunisia,Tunis,TN,tn.png
+178,Turkey,Ankara,TR,tr.png
+179,Turkmenistan,Ashgabat,TM,tm.png
+180,Tuvalu,Funafuti,TV,tv.png
+181,Uganda,Kampala,UG,ug.png
+182,Ukraine,Kyiv,UA,ua.png
+183,United Arab Emirates,Abu Dhabi,AE,ae.png
+184,United Kingdom,London,GB,gb.png
+185,United States,Washington D.C.,US,us.png
+186,Uruguay,Montevideo,UY,uy.png
+187,Uzbekistan,Tashkent,UZ,uz.png
+188,Vanuatu,Port Vila,VU,vu.png
+189,Venezuela,Caracas,VE,ve.png
+190,Vietnam,Hanoi,VN,vn.png
+191,Yemen,Sanaa,YE,ye.png
+192,Zambia,Lusaka,ZM,zm.png
+193,Zimbabwe,Harare,ZW,zw.png

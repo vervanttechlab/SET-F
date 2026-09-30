@@ -1,0 +1,21 @@
+OFFLINE LIBRARIES (no internet needed)
+
+  Bootstrap 5.3.3  - bootstrap-5.3.3/css/bootstrap.min.css
+                     bootstrap-5.3.3/js/bootstrap.bundle.min.js  (includes Popper, for modals/dropdowns)
+  jQuery 3.7.1     - jquery-3.7.1/jquery.min.js
+
+Copy the "libraries" folder into your project folder, then link them in your HTML:
+
+  <head>
+      <link rel="stylesheet" href="libraries/bootstrap-5.3.3/css/bootstrap.min.css">
+  </head>
+  <body>
+      ...
+      <script src="libraries/jquery-3.7.1/jquery.min.js"></script>
+      <script src="libraries/bootstrap-5.3.3/js/bootstrap.bundle.min.js"></script>
+      <script src="js/your-script.js"></script>
+  </body>
+
+Using these libraries is OPTIONAL. Plain HTML/CSS/JavaScript is also accepted.
+
+Licenses: Bootstrap (MIT, https://getbootstrap.com) and jQuery (MIT, https://jquery.org/license).
